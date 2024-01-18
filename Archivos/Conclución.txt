@@ -1,0 +1,7 @@
+Conclucion:
+Se realizo la compra de dos productos.
+ 
+se automatizo el flujo para compra online de dos productos con satisfaccion,
+sin embargo la version 1.8 de java provoca incompatibilidad en las dependencias
+por esta razon se sugiere desarrollar con herramnientas de versiones compatibles.
+
